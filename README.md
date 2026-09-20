@@ -24,8 +24,8 @@ Atualmente aplicando em meus exercícios acadêmicos:
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anacarvalhoalv&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarvalhoalv&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150"/>
 </div>
 
 ---
