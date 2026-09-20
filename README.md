@@ -23,9 +23,7 @@ Atualmente aplicando em meus exercícios acadêmicos:
 
 ### 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anacarvalhoalv&show_icons=true&theme=dark&include_all_commits=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarvalhoalv&layout=compact&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anacarvalhoalv&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
