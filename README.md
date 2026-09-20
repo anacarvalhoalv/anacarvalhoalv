@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá! Sou Ana Beatriz Alves 👋
 
-<!--
-**anacarvalhoalv/anacarvalhoalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia da Computação na Universidade Federal da Paraíba. 
 
-Here are some ideas to get you started:
+Este perfil é dedicado a documentar minha evolução acadêmica, resolução de exercícios e projetos desenvolvidos durante a graduação, com foco em desenvolvimento na linguagem **C**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagem Principal:** C
+- **Ambiente de Desenvolvimento:** VS Code, Dev C++
+- **Controle de Versão:** Git & GitHub
+
+---
+
+### 📚 Tópicos & Conceitos Práticos em C
+Atualmente aplicando em meus exercícios acadêmicos:
+- 🔹 **Fundamentos:** Ponteiros, Aritmética de Ponteiros e Passagem por Referência
+- 🔹 **Em constante atualização conforme o avanço dos meus estudos.**
+
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150"/>
+</div>
+
+---
+
+### 📬 Como Me Encontrar
+- **LinkedIn:** [linkedin.com/in/ana-beatriz-alves](https://www.linkedin.com/in/ana-beatriz-alves-b444251b6/)
+- **E-mail:** [anabeatrizalvescarvalhojppb@gmail.com](mailto:anabeatrizalvescarvalhojppb@gmail.com)
