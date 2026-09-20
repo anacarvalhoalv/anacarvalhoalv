@@ -7,7 +7,7 @@ Este perfil é dedicado a documentar minha evolução acadêmica, resolução de
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-- **Linguagem Principal:** C
+- **Linguagem Principal:**
 ![C](https://img.shields.io/badge/c-%2300599c.svg?style=for-the-badge&logo=c&LogoColor=white)
 - **Ambiente de Desenvolvimento:** VS Code, Dev C++
 - **Controle de Versão:** Git & GitHub
