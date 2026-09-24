@@ -1,33 +1,49 @@
-# Olá! Sou Ana Beatriz Alves 👋
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-Estudante de Engenharia da Computação na Universidade Federal da Paraíba. 
+###
 
-Este perfil é dedicado a documentar minha evolução acadêmica, resolução de exercícios e projetos desenvolvidos durante a graduação, com foco em desenvolvimento na linguagem **C**.
+<h1 data-importer="text" align="left">Olá! Sou Ana Beatriz ✨</h1>
 
----
+###
 
-### 🛠️ Tecnologias & Ferramentas
-- **Linguagem Principal:**
-![C](https://img.shields.io/badge/c-%2300599c.svg?style=for-the-badge&logo=c&LogoColor=white)
-- **Ambiente de Desenvolvimento:** VS Code, Dev C++
-- **Controle de Versão:** Git & GitHub
+<h3 data-importer="text" align="left">Estudante de Engenharia da Computação na Universidade Federal da Paraíba.</h3>
 
----
+###
 
-### 📚 Tópicos & Conceitos Práticos em C
-Atualmente aplicando em meus exercícios acadêmicos:
-- 🔹 **Fundamentos:** Ponteiros, Aritmética de Ponteiros e Passagem por Referência
-- 🔹 **Em constante atualização conforme o avanço dos meus estudos.**
+<p data-importer="text" align="left">Este perfil é dedicado a documentar minha evolução acadêmica, resolução de exercícios e projetos desenvolvidos durante a graduação, com foco em desenvolvimento na linguagem **C**.</p>
 
+###
 
----
+<h3 data-importer="text" align="center">🔹 Em constante atualização conforme o avanço dos meus estudos 🔹</h3>
 
-### 📊 Minhas Estatísticas no GitHub
+###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anacarvalhoalv&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<h2 data-importer="text" align="left">Linguagem Principal:</h2>
 
----
+###
 
-### 📬 Como Me Encontrar
-- **LinkedIn:** [linkedin.com/in/ana-beatriz-alves](https://www.linkedin.com/in/ana-beatriz-alves-b444251b6/)
-- **E-mail:** [anabeatrizalvescarvalhojppb@gmail.com](mailto:anabeatrizalvescarvalhojppb@gmail.com)
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/anacarvalhoalv/anacarvalhoalv/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=anacarvalhoalv&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/ana-beatriz-alves-b444251b6/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="instagram.com/itsbeatrizalv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
+###
