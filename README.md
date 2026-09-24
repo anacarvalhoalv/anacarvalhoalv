@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/ana-beatriz-alves-b444251b6/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="instagram.com/itsbeatrizalv" target="_blank">
+  <a href="https://www.instagram.com/itsbeatrizalv/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
