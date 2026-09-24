@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">Este perfil é dedicado a documentar minha evolução acadêmica, resolução de exercícios e projetos desenvolvidos durante a graduação, com foco em desenvolvimento na linguagem **C**.</p>
+<p data-importer="text" align="left">Este perfil é dedicado a documentar minha evolução acadêmica, resolução de exercícios e projetos desenvolvidos durante a graduação, com foco em desenvolvimento na linguagem C.</p>
 
 ###
 
